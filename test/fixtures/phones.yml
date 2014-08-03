@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  snippet: MyText
+  features: MyText
+  os: MyString
+  os_version: 1.5
+
+two:
+  name: MyString
+  snippet: MyText
+  features: MyText
+  os: MyString
+  os_version: 1.5
