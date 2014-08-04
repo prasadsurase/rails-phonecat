@@ -9,7 +9,7 @@ class Api::V1::PhonesController < ApplicationController
   end
 
   def show
-
+    render json: Phone.find(params[:id])
   end
 
   def update
